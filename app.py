@@ -1,10 +1,9 @@
 # KFC_Bot
-# This bot is advertising the KFC products. Booking the fastfood from the internet is becoming more easier and better.
 
 import telebot
 from telebot import types
 # Global bot setting
-TOKEN = '1196444645:AAGNtPrJjBG0fYV1kBQcHDA0UwEXJpFGONY'
+TOKEN = ''
 
 # Code
 PRODUCTS = {}
